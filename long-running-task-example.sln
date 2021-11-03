@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1700.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "long-running-task-example", "long-running-task-example\long-running-task-example.csproj", "{F3F1D29D-E6F6-421A-9955-FA39B56A4EE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3F1D29D-E6F6-421A-9955-FA39B56A4EE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3F1D29D-E6F6-421A-9955-FA39B56A4EE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3F1D29D-E6F6-421A-9955-FA39B56A4EE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3F1D29D-E6F6-421A-9955-FA39B56A4EE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71E8C5F9-5BDF-4508-B876-F6A6EC387D2A}
+	EndGlobalSection
+EndGlobal
